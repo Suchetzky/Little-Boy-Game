@@ -3,6 +3,7 @@
 
 # Made by: 
 Programming by Tal Suchetzky, Itamar Citrin & Bella Shmuylovich.
+
 Game design by Ori Shany & Aya Oikawa.
 
 # Download and play:
